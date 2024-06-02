@@ -9,6 +9,9 @@ public class Main {
         System.out.println("commit1");
        System.out.println("commit1");
        System.out.println("commit1");
+        System.out.println("commitB2");
+       System.out.println("commitB2")
+       System.out.println("commitB2");
         try {
             // 从控制台读取文件路径
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
