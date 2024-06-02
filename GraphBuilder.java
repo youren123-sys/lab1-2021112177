@@ -15,6 +15,7 @@ public class GraphBuilder {
     }
 
     public void buildGraph(String content) {
+        System.out.println("commitC4");
         StringTokenizer tokenizer = new StringTokenizer(content);
         String prevWord = null;
 
