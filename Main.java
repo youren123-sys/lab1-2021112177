@@ -13,6 +13,9 @@ public class Main {
        System.out.println("commitB1");
           System.out.println("commitB1");
        System.out.println("commitB1");
+       System.out.println("commitIDE");
+          System.out.println("commitIDE");
+       System.out.println("commiIDE");
         try {
             // 从控制台读取文件路径
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
